@@ -7,7 +7,7 @@ int main()
    //loops: for/while/do while  
    
    
-   for(int i=1;i<=100;)
+   for(int i=1;i<=100;)//ممكن احطها هون i++
    {
         cout<<i<<": Roaa\n";
         i++;
